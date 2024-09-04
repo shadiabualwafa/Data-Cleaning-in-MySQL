@@ -1,2 +1,2 @@
-# Data-Cleaning-in-MySQL
+# MySql Projects
 Cleaning Layoffs Data in MySql 
